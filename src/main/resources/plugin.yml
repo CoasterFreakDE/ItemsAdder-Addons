@@ -1,0 +1,5 @@
+name: Magicstuff
+version: ${project.version}
+main: cloud.melion.extras.magicstuff.Magicstuff
+api-version: 1.16
+depend: [ ItemsAdder ]
